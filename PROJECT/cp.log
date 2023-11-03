@@ -1,0 +1,8 @@
+INFO: Platform: win32
+INFO: Version Info: v0.3.0
+DEBUG: Log Path: cp.log
+DEBUG: command: ['python', 'C:\\Users\\syrof\\Desktop\\FlipdProjects\\PrizePick\\app.py']
+DEBUG: file: None
+DEBUG: pause: True
+DEBUG: repl: python
+DEBUG: args: ['C:\\Users\\syrof\\Desktop\\FlipdProjects\\PrizePick\\app.py']
